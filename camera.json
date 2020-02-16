@@ -1,0 +1,110 @@
+{
+  "layout": {
+    "direction": "row",
+    "first": {
+      "direction": "column",
+      "first": "ImageViewPanel!4jkfd1e",
+      "second": "ImageViewPanel!otkb19"
+    },
+    "second": {
+      "direction": "row",
+      "first": {
+        "direction": "column",
+        "first": "ImageViewPanel!1kxufdq",
+        "second": "ImageViewPanel!2kyyo7s"
+      },
+      "second": {
+        "direction": "column",
+        "first": "ImageViewPanel!pc2ovk",
+        "second": "ImageViewPanel!691jpc"
+      }
+    },
+    "splitPercentage": 33.28125
+  },
+  "savedProps": {
+    "ImageViewPanel!4jkfd1e": {
+      "cameraTopic": "/image_raw",
+      "enabledMarkerNames": [],
+      "scale": 0.2,
+      "transformMarkers": true,
+      "synchronize": false,
+      "mode": "fit",
+      "zoomPercentage": 30.428571428571427,
+      "offset": [
+        0,
+        46.60285714285715
+      ]
+    },
+    "ImageViewPanel!otkb19": {
+      "cameraTopic": "/image_raw",
+      "enabledMarkerNames": [],
+      "scale": 0.2,
+      "transformMarkers": true,
+      "synchronize": false,
+      "mode": "fit",
+      "zoomPercentage": 30.428571428571427,
+      "offset": [
+        0,
+        46.60285714285715
+      ]
+    },
+    "ImageViewPanel!1kxufdq": {
+      "cameraTopic": "/image_raw",
+      "enabledMarkerNames": [],
+      "scale": 0.2,
+      "transformMarkers": true,
+      "synchronize": false,
+      "mode": "fit",
+      "zoomPercentage": 30.5,
+      "offset": [
+        0,
+        46.42
+      ]
+    },
+    "ImageViewPanel!2kyyo7s": {
+      "cameraTopic": "/image_raw",
+      "enabledMarkerNames": [],
+      "scale": 0.2,
+      "transformMarkers": true,
+      "synchronize": false,
+      "mode": "fit",
+      "zoomPercentage": 30.5,
+      "offset": [
+        0,
+        46.42
+      ]
+    },
+    "ImageViewPanel!pc2ovk": {
+      "cameraTopic": "/image_raw",
+      "enabledMarkerNames": [],
+      "scale": 0.2,
+      "transformMarkers": true,
+      "synchronize": false,
+      "mode": "fit",
+      "zoomPercentage": 30.5,
+      "offset": [
+        0,
+        46.42
+      ]
+    },
+    "ImageViewPanel!691jpc": {
+      "cameraTopic": "/image_raw",
+      "enabledMarkerNames": [],
+      "scale": 0.2,
+      "transformMarkers": true,
+      "synchronize": false,
+      "mode": "fit",
+      "zoomPercentage": 30.5,
+      "offset": [
+        0,
+        46.42
+      ]
+    }
+  },
+  "globalVariables": {},
+  "userNodes": {},
+  "linkedGlobalVariables": [],
+  "playbackConfig": {
+    "speed": 0.2
+  }
+}
